@@ -1,0 +1,21 @@
+{
+  "name": "purple-theme",
+  "displayName": "Purple Theme",
+  "description": "its purple",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Theme-color-theme.json"
+      }
+    ]
+  }
+}
